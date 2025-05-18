@@ -23,13 +23,8 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iman-babaei&show_icons=true&theme=dark&count_private=true&include_all_commits=true&refresh=1" alt="iman-babaei" />
-  
-  <!-- Most Used Languages with Auto-Refresh -->
-  <img height="180em" id="live-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iman-babaei&layout=compact&theme=dark&langs_count=8&refresh=1&cache_bust=true" alt="iman-babaei" />
-  <script>
-    document.getElementById('live-langs').src = document.getElementById('live-langs').src.split('&')[0] + '&cache=' + Date.now();
-  </script>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iman-babaei&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="iman-babaei" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iman-babaei&layout=compact&theme=dark&langs_count=8" alt="iman-babaei" />
 </div>
 
 <div align="center">
