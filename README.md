@@ -19,4 +19,3 @@
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="55" height="55"/>
 </p>
-..
